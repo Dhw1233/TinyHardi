@@ -10,14 +10,16 @@
 
 ***
 
-* [llama.cpp](llama.cpp.md)
-* [Papers](papers.md)
+* [Papers](papers/README.md)
+  * [ThunderServe](papers/thunderserve.md)
 * [推理优化](tui-li-you-hua/README.md)
   * [spec decoding](tui-li-you-hua/spec-decoding.md)
   * [Smoothquant](tui-li-you-hua/smoothquant.md)
   * [vllm](tui-li-you-hua/vllm.md)
   * [ktransformers](tui-li-you-hua/ktransformers.md)
-* [Untitled](untitled.md)
+  * [llama.cpp](tui-li-you-hua/llama.cpp.md)
+* [杂记](za-ji/README.md)
+  * [CS149](za-ji/cs149.md)
 
 ## 碎碎念
 
