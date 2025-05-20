@@ -2,7 +2,7 @@
 description: 投机解码，推优化的重要技术
 ---
 
-# spec decoding
+# 🙃 spec decoding
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>算法流程</p></figcaption></figure>
 
